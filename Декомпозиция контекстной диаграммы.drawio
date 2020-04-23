@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T08:38:48.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="gxoO76vToaKpo1oGVsiT" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T08:39:43.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="ctkDPOxr8ut-SyORrJTj" version="13.0.1" type="github">
   <diagram id="AoLe5V4ISyPj-6RMyFMR" name="Страница 1">
     <mxGraphModel dx="815" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="DwWxU6lLQeuU-5s9yN27-12" value="Запрос" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WjetxHt92gpi3S8SBkir-2" value="Инвентаризация компьютеров в сети" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="WjetxHt92gpi3S8SBkir-2" value="Программа администрирования сети" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="217" y="595" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xuUnCpznHpjHD1AKO5b-51" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pFTF1I5AWca8MZ5ZyV97-1">
