@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-03T07:30:55.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="hZMcdXc2xH7nh0cWUzUW" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-03T07:33:58.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="iYpeAc5wSm8ATcKcZTfg" version="13.0.1" type="github">
   <diagram id="AoLe5V4ISyPj-6RMyFMR" name="Страница 1">
     <mxGraphModel dx="860" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pFTF1I5AWca8MZ5ZyV97-1" value="Обращение к БД" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="190" width="100" height="70" as="geometry" />
+          <mxGeometry x="132" y="190" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pFTF1I5AWca8MZ5ZyV97-4" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="240" width="20" height="20" as="geometry" />
+          <mxGeometry x="212" y="240" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TYSZjx4eLuvWmIhEO_7E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pFTF1I5AWca8MZ5ZyV97-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -59,7 +59,7 @@
         </mxCell>
         <mxCell id="TYSZjx4eLuvWmIhEO_7E-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="pFTF1I5AWca8MZ5ZyV97-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="225" as="sourcePoint" />
+            <mxPoint x="80" y="225" as="sourcePoint" />
             <mxPoint x="550" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -91,7 +91,7 @@
         <mxCell id="TYSZjx4eLuvWmIhEO_7E-37" value="Таблица с данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="195" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TYSZjx4eLuvWmIhEO_7E-56" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pFTF1I5AWca8MZ5ZyV97-1" edge="1">
+        <mxCell id="TYSZjx4eLuvWmIhEO_7E-56" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="pFTF1I5AWca8MZ5ZyV97-1" edge="1" source="YUrXhNPh0uZ1h1seXc1K-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="460" as="sourcePoint" />
             <mxPoint x="380" y="290" as="targetPoint" />
@@ -111,7 +111,7 @@
           <mxGeometry x="99" y="178" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRXwLdaGu-NpRTj4cW7C-4" value="Обработанные данные" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="190" width="70" height="30" as="geometry" />
+          <mxGeometry x="49" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4gpPdqMBZ24U9PcCY3dH-1" value="ADOQuery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="40" height="20" as="geometry" />
@@ -143,7 +143,16 @@
           <mxGeometry x="250" y="380" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4gpPdqMBZ24U9PcCY3dH-9" value="ADOConnection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="270" width="40" height="20" as="geometry" />
+          <mxGeometry x="232" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpPdqMBZ24U9PcCY3dH-11" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pFTF1I5AWca8MZ5ZyV97-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4gpPdqMBZ24U9PcCY3dH-12" value="MySQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="460" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
