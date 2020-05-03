@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-03T09:51:50.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="mhoNLRPLAxLcxVlUE0OH" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-03T10:11:29.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="xa4yFzeT4NNyW3TqJ9XM" version="13.0.1" type="github">
   <diagram id="L7s4xPTiVDL2cpyjSdkr" name="Page-1">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="xcm8XhxW1ZEP3r7AVfZU-15" value="Необходимая информация" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xcm8XhxW1ZEP3r7AVfZU-18" value="Отчеты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="xcm8XhxW1ZEP3r7AVfZU-18" value="Результат" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xcm8XhxW1ZEP3r7AVfZU-19" value="Клиентские данные" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
