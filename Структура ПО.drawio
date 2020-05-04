@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-04T08:42:11.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="WHwQ1Rq8ymBC8nRIBKxQ" version="13.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-04T08:42:49.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="HcjBEvbg-sm_9Tl-xrWf" version="13.0.5" type="github">
   <diagram id="oTcq6YLSwJfFkn_9rrhU" name="Страница 1">
     <mxGraphModel dx="1398" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,8 +174,8 @@
         <mxCell id="Q-hqpUI1B8jDmW4OvgeE-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-hqpUI1B8jDmW4OvgeE-12" target="Q-hqpUI1B8jDmW4OvgeE-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-hqpUI1B8jDmW4OvgeE-12" value="GetComputerInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="571" y="100" width="106" height="40" as="geometry" />
+        <mxCell id="Q-hqpUI1B8jDmW4OvgeE-12" value="GetComputerInfo.pas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="104" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q-hqpUI1B8jDmW4OvgeE-13" value="ClientSocket1Disconnect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="142" height="30" as="geometry" />
