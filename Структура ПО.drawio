@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-04T10:20:10.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="y_u2c7of0_wdG-DFRNsJ" version="13.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-04T10:26:48.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="bsWjvWyN3FS62x_Xfzgu" version="13.0.5" type="github" pages="2">
   <diagram id="oTcq6YLSwJfFkn_9rrhU" name="Страница 1">
     <mxGraphModel dx="2058" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aT3XOyzdR3SU82cmfQYs" name="Страница 2">
-    <mxGraphModel dx="1391" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Orb2wBjThOrGB8bL3RQE-0" />
         <mxCell id="Orb2wBjThOrGB8bL3RQE-1" parent="Orb2wBjThOrGB8bL3RQE-0" />
@@ -697,6 +697,54 @@
         </mxCell>
         <mxCell id="2SATKyXcG4FNf7OSsg3C-47" value="GroupBoxStatusSockets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
           <mxGeometry x="223" y="1240" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-151" value="ButtonAddString" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="27" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-152" value="ButtonTrayClick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="440" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-153" value="ButtonChangeClick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="27" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-154" value="ButtonDeleteClick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="27" y="280" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-155" value="ButtonClearStringClick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="27" y="320" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-156" value="ButtonClear2Click" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="360" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-157" value="ButtonUpdateLogsClick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="400" width="129" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-158" value="DBLookupComboBoxID2Click" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="480" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-159" value="FormCloseQuery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="520" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-160" value="FromCreate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-161" value="ServerSocket1Accept" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="600" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-163" value="ServerSocket1ClientConnect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="640" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-164" value="ServerSocket1ClientDisconnect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="680" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-165" value="ServerSocket1ClientError" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="28" y="720" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-166" value="ServerSocket1ClientRead" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="29" y="760" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SATKyXcG4FNf7OSsg3C-167" value="TrayIcon1DblClick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Orb2wBjThOrGB8bL3RQE-1">
+          <mxGeometry x="29" y="800" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
