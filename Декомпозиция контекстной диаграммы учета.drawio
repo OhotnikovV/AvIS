@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-10T08:27:28.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OR0IdHdZYnQ2URX9dBpT" version="13.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-10T09:14:40.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="hd7S7G9xsWr3tz2l1d9J" version="13.0.8" type="github">
   <diagram id="AoLe5V4ISyPj-6RMyFMR" name="Страница 1">
-    <mxGraphModel dx="572" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="pFTF1I5AWca8MZ5ZyV97-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pFTF1I5AWca8MZ5ZyV97-11" target="pFTF1I5AWca8MZ5ZyV97-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pFTF1I5AWca8MZ5ZyV97-11" value="Получение данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pFTF1I5AWca8MZ5ZyV97-11" value="Обработка данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="290" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pFTF1I5AWca8MZ5ZyV97-16" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="StAPtzrFo9pS9IUmeKTq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DwWxU6lLQeuU-5s9yN27-1" target="pFTF1I5AWca8MZ5ZyV97-17">
+        <mxCell id="StAPtzrFo9pS9IUmeKTq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DwWxU6lLQeuU-5s9yN27-1" target="pFTF1I5AWca8MZ5ZyV97-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="364" y="480" />
@@ -182,7 +182,7 @@
         <mxCell id="-FEqQqn-0R9qWeL8Rs1F-1" value="Данные АО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="StAPtzrFo9pS9IUmeKTq-1" value="Данные ПО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="StAPtzrFo9pS9IUmeKTq-1" value="Данные ПО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="325" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
