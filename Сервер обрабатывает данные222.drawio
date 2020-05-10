@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-10T09:22:36.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HOzHCjPSMA1Rb8vV_0mj" version="13.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-10T09:23:47.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Rf6gDjQDnTYWvGUHqFrf" version="13.0.8" type="github">
   <diagram id="AoLe5V4ISyPj-6RMyFMR" name="Страница 1">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYSZjx4eLuvWmIhEO_7E-37" value="Данные АОи ПО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYSZjx4eLuvWmIhEO_7E-37" value="Данные АО и ПО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="200" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TYSZjx4eLuvWmIhEO_7E-46" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="TYSZjx4eLuvWmIhEO_7E-49">
