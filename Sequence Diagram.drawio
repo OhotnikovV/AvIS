@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T05:49:02.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Gk6BnCvPwuhSm73-HKwf" version="13.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T05:52:53.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="VKiMLsLsNU_QiEMfcdAE" version="13.1.13" type="github">
   <diagram id="RC0_b64wAdmyMu5P7v91" name="Page-1">
     <mxGraphModel dx="1201" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -28,11 +28,20 @@
         <mxCell id="YUMvQYo-Xk3cnNHwb1zE-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="YUMvQYo-Xk3cnNHwb1zE-3">
           <mxGeometry x="45" y="311" width="10" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="YUMvQYo-Xk3cnNHwb1zE-3">
+          <mxGeometry x="45" y="109" width="10" height="22" as="geometry" />
+        </mxCell>
         <mxCell id="YUMvQYo-Xk3cnNHwb1zE-5" value="Форма основного приложения" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="96" y="124" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="YUMvQYo-Xk3cnNHwb1zE-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="YUMvQYo-Xk3cnNHwb1zE-5">
-          <mxGeometry x="45" y="110" width="10" height="226" as="geometry" />
+          <mxGeometry x="45" y="110" width="10" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-36" value="Подключение к БД" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="YUMvQYo-Xk3cnNHwb1zE-5" target="YUMvQYo-Xk3cnNHwb1zE-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="55" y="110" as="sourcePoint" />
+            <mxPoint x="135" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YUMvQYo-Xk3cnNHwb1zE-4" value="Учетные данные" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="YUMvQYo-Xk3cnNHwb1zE-1" target="YUMvQYo-Xk3cnNHwb1zE-2">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -116,6 +125,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="459" as="sourcePoint" />
             <mxPoint x="150" y="459" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-38" value="Вывод БД" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="255" as="sourcePoint" />
+            <mxPoint x="150" y="255" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
