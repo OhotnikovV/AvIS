@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T05:55:48.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="iQB9p4DYFy-yLyVbuc-E" version="13.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T06:00:42.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="IghLwJZHP9W4dBeQbn2w" version="13.1.13" type="github">
   <diagram id="RC0_b64wAdmyMu5P7v91" name="Page-1">
     <mxGraphModel dx="1201" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -133,6 +133,33 @@
             <mxPoint x="295" y="255" as="sourcePoint" />
             <mxPoint x="150" y="255" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-39" value="Клиент" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="518" width="20" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-41" value="Форма основного приложения" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="518" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-48" value="Форма чата" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="96" y="518" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-51" value="Запуск приложения" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" source="YUMvQYo-Xk3cnNHwb1zE-39" target="YUMvQYo-Xk3cnNHwb1zE-41" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-144" y="608" as="sourcePoint" />
+            <mxPoint x="-7" y="609" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-84" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-52" value="Запуск чата" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-146" y="642" as="sourcePoint" />
+            <mxPoint x="146" y="642" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="642" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
