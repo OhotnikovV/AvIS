@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T05:52:53.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="VKiMLsLsNU_QiEMfcdAE" version="13.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-03T05:55:48.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="iQB9p4DYFy-yLyVbuc-E" version="13.1.13" type="github">
   <diagram id="RC0_b64wAdmyMu5P7v91" name="Page-1">
     <mxGraphModel dx="1201" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-19" value="Вывод данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-19" value="Результат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="295" as="sourcePoint" />
             <mxPoint x="150" y="295" as="targetPoint" />
@@ -107,21 +107,21 @@
         <mxCell id="YUMvQYo-Xk3cnNHwb1zE-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="297" y="387" width="10" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-31" value="Вывод данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-31" value="Результат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="354" as="sourcePoint" />
             <mxPoint x="150" y="354" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-32" value="Вывод данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-32" value="Результат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="412" as="sourcePoint" />
             <mxPoint x="150" y="412" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-33" value="Вывод данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="YUMvQYo-Xk3cnNHwb1zE-33" value="Результат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="459" as="sourcePoint" />
             <mxPoint x="150" y="459" as="targetPoint" />
